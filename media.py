@@ -1,11 +1,12 @@
 import webbrowser
 
+
 class Movie():
-    def __init__(self, movie_title, movie_director, release_date, 
-                movie_poster, movie_trailer):
+    def __init__(self, movie_title, movie_director, release_date,
+                 movie_poster, movie_trailer):
         """this class provide a way to store movie information
            initialize instance of class movie
-           
+
         attributes: str
            movie_title: name of the movie
            director: movie director
@@ -19,7 +20,6 @@ class Movie():
         self.poster_image_url = movie_poster
         self.trailer_youtube_url = movie_trailer
 
-    def show_trailer (self):
+    def show_trailer(self):
         """play movie trailer in web browser"""
         webbrowser.open(self.trailer_youtube_url)
-  
