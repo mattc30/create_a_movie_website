@@ -18,5 +18,8 @@ You will then use your code to generate a static web page allowing visitors to b
 1. Download or clone the repository
 2. Open the terminal
 3. Change directory to the create_a_movie_website repository
-4. Run command `python entertainment_center.py`
+4. Run command 
+```
+python entertainment_center.py
+```
 5. Will open the movie website in your default browser, then enjoy it!
