@@ -1,7 +1,7 @@
 # create_a_movie_website
 
 ## Overview
-This is the third project for Udacity intro to programing nano degree. 
+This is the first project for Udacity Full Stack Web Developer nano degree. 
 > You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. 
 You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailer.
 
